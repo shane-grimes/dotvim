@@ -3,3 +3,6 @@ Installation:
 
 Create symlinks:
     ln -s ~/.vim/vimrc ~/.vimrc
+    
+ Update YCM:
+ https://github.com/ycm-core/YouCompleteMe#linux-64-bit
