@@ -1,0 +1,11 @@
+#ignore these filetypes
+.netrwhist
+.git
+
+#ignore these folders
+autoload/
+bundle/
+colors/
+doc/
+plugged/
+themes/
